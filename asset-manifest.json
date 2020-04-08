@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/color-palette-generator/static/css/main.9022fa2d.chunk.css",
-    "main.js": "/color-palette-generator/static/js/main.564b34f4.chunk.js",
-    "main.js.map": "/color-palette-generator/static/js/main.564b34f4.chunk.js.map",
+    "main.js": "/color-palette-generator/static/js/main.e4f80ce4.chunk.js",
+    "main.js.map": "/color-palette-generator/static/js/main.e4f80ce4.chunk.js.map",
     "runtime-main.js": "/color-palette-generator/static/js/runtime-main.fe927ca5.js",
     "runtime-main.js.map": "/color-palette-generator/static/js/runtime-main.fe927ca5.js.map",
     "static/js/2.01fbdc69.chunk.js": "/color-palette-generator/static/js/2.01fbdc69.chunk.js",
     "static/js/2.01fbdc69.chunk.js.map": "/color-palette-generator/static/js/2.01fbdc69.chunk.js.map",
     "index.html": "/color-palette-generator/index.html",
-    "precache-manifest.bfbc297ff5b004bdd76d7c6479901511.js": "/color-palette-generator/precache-manifest.bfbc297ff5b004bdd76d7c6479901511.js",
+    "precache-manifest.545db4ffbfe0d288f480024be5475d1f.js": "/color-palette-generator/precache-manifest.545db4ffbfe0d288f480024be5475d1f.js",
     "service-worker.js": "/color-palette-generator/service-worker.js",
     "static/css/main.9022fa2d.chunk.css.map": "/color-palette-generator/static/css/main.9022fa2d.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.fe927ca5.js",
     "static/js/2.01fbdc69.chunk.js",
     "static/css/main.9022fa2d.chunk.css",
-    "static/js/main.564b34f4.chunk.js"
+    "static/js/main.e4f80ce4.chunk.js"
   ]
 }

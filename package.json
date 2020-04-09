@@ -2,7 +2,7 @@
   "name": "color-gen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://german-ruiz.github.io/color-palette-generator",
+  "homepage": "http://german-ruiz.github.io/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "node-fetch": "^2.6.0",
